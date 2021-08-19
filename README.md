@@ -1,2 +1,2 @@
 # sudokusolver
-A sudoku game.
+A sudoku game. In production.
